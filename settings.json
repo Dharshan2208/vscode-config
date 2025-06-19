@@ -1,0 +1,82 @@
+{
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.autoIndent": "full",
+    "editor.linkedEditing": true,
+    "editor.inlayHints.enabled": "on",
+    "editor.tabCompletion": "on",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoSurround": "brackets",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.hover.enabled": true,
+    "editor.hover.delay": 250,
+    "editor.suggestSelection": "first",
+    "editor.snippetSuggestions": "top",
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.renderLineHighlight": "all",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": true,
+    "editor.renderWhitespace": "none",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.list.smoothScrolling": true,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.sortOrder": "type",
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/.git": true,
+      "**/__pycache__": true
+    },
+    "search.smartCase": true,
+    "search.useGlobalIgnoreFiles": true,
+    "terminal.integrated.smoothScrolling": true,
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.decorations.enabled": true,
+    "git.autofetch": true,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[java]": {
+      "editor.defaultFormatter": "redhat.java"
+    },
+    "python.analysis.autoImportCompletions": true,
+    "window.customTitleBarVisibility": "windowed",
+    "terminal.integrated.defaultProfile.linux": "",
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.largeFileOptimizations": false,
+    "python.createEnvironment.trigger": "off",
+    "java.server.launchMode": "Standard",
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.suggest.showStatusBar": false,
+    "java.autobuild.enabled": false,
+    "workbench.editor.limit.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.editorAssociations": {
+      "*.docx": "default"
+    },
+    "chat.commandCenter.enabled": false,
+  }
